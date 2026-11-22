@@ -1,0 +1,32 @@
+{
+  "apps": [
+    {
+      "package_id": "com.banadev.brokenscreen",
+      "name": "Block Smash: Neon Puzzle",
+      "tagline": "Addictive 8x8 Offline Neon Puzzle",
+      "icon_url": "URL_RAW_IKON_BLOCK_SMASH",
+      "store_url": "https://play.google.com/store/apps/details?id=com.banadev.brokenscreen"
+    },
+    {
+      "package_id": "com.banadev.ninjabrawl",
+      "name": "Pro Ninja Shadow 2027",
+      "tagline": "3D Offline Ninja Action Combat",
+      "icon_url": "URL_RAW_IKON_NINJA",
+      "store_url": "https://play.google.com/store/apps/details?id=com.banadev.ninjabrawl"
+    },
+    {
+      "package_id": "com.banadev.studio.docflow",
+      "name": "DocFlow: PDF & Receipt Scanner",
+      "tagline": "Fast Mobile Document Scanner",
+      "icon_url": "URL_RAW_IKON_DOCFLOW",
+      "store_url": "https://play.google.com/store/apps/details?id=com.banadev.studio.docflow"
+    },
+    {
+      "package_id": "com.banadev.nobione",
+      "name": "Smart EMI & Loan Calculator",
+      "tagline": "Monthly Loan & Mortgage Planner",
+      "icon_url": "URL_RAW_IKON_EMI",
+      "store_url": "https://play.google.com/store/apps/details?id=com.banadev.nobione"
+    }
+  ]
+}
