@@ -22,6 +22,13 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.banadev.studio.docflow"
     },
     {
+      "package_id": "com.banadev.nobi.two",
+      "name": "Pro Football League 2027",
+      "tagline": "Offline 3D Stadium Soccer",
+      "icon_url": "https://raw.githubusercontent.com/takashiyudha-lgtm/.../icon_football.png",
+      "store_url": "https://play.google.com/store/apps/details?id=com.banadev.nobi.two"
+    }
+    {
       "package_id": "com.banadev.nobione",
       "name": "Smart EMI & Loan Calculator",
       "tagline": "Monthly Loan & Mortgage Planner",
